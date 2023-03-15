@@ -1,0 +1,20 @@
+
+d
+java:S11926"IDefine a constant instead of duplicating this literal "Pirelli" 10 times.(®üŞ°ÿÿÿÿÿ
+S
+java:S1854H"8Remove this useless assignment to local variable "auto".(Óìªöøÿÿÿÿ
+V	java:S125
+"<This block of commented-out lines of code should be removed.(¾è÷”ùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(İ€–Îÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(£œìÓüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÄŸıªúÿÿÿÿ
+V	java:S125#"<This block of commented-out lines of code should be removed.(“õ«ªüÿÿÿÿ
+Q	java:S125$"<This block of commented-out lines of code should be removed.(·ŸÒô
+V	java:S1251"<This block of commented-out lines of code should be removed.(®ÎÛûÿÿÿÿ
+D
+java:S1481H")Remove this unused "auto" local variable.(Óìªöøÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(©—¤îıÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(ó¸ÀÎ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(šÊƒ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(şËÄŒ
+Q	java:S125O"<This block of commented-out lines of code should be removed.(µ§ûõ

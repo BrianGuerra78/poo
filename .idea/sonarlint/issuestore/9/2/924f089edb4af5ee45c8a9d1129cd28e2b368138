@@ -1,0 +1,27 @@
+
+r
+java:S1192."WDefine a constant instead of duplicating this literal "Kilometraje por litro " 3 times.(‰…¦ùÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(Å¼Çi
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÔÑ¿Ü
+V	java:S125"<This block of commented-out lines of code should be removed.(‘ããÆøÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(¼ı‡b
+P	java:S125"<This block of commented-out lines of code should be removed.(¦âŒ
+V	java:S125"<This block of commented-out lines of code should be removed.(‘®œ½ùÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÈ¬
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(’û¼‡úÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(âãš‘
+S	java:S106""9Replace this use of System.out or System.err by a logger.(©—¤îıÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ó¸ÀÎ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(šÊƒ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ãß°â
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(Ğˆüè
+N	java:S106("9Replace this use of System.out or System.err by a logger.(£ãİİ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ı¯áÖ
+l
+java:S2159)"VRemove this call to "equals"; comparisons between unrelated types always return false.(ı¯áÖ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(Ä¹§•ûÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ÀÎşµÿÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ŒÑƒ“
+S	java:S106."9Replace this use of System.out or System.err by a logger.(‰…¦ùÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(„¼ù¶
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(Åå¿”úÿÿÿÿ

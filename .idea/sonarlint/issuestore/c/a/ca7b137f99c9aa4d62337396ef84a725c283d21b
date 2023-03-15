@@ -1,0 +1,22 @@
+
+S
+java:S1854"8Remove this useless assignment to local variable "auto".(Óìªöøÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(µª»§ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(‘ããÆøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(âãš‘
+Q	java:S125"<This block of commented-out lines of code should be removed.(œ¨µ¸
+Q	java:S125"<This block of commented-out lines of code should be removed.(ŞïùÒ
+Q	java:S125"<This block of commented-out lines of code should be removed.(í«éŞ
+D
+java:S1481")Remove this unused "auto" local variable.(Óìªöøÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(©—¤îıÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ó¸ÀÎ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(šÊƒ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(şËÄŒ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(äÏè“øÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(•ˆÂáıÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(ä¦ğ’
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(ğ±ÁË
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(¹Üôüıÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(úÔù£
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ËÂ›•üÿÿÿÿ8¬ÎäÒÁ0
